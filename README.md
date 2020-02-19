@@ -1,6 +1,9 @@
 # Cedeno_DB2_010920
-## to install properly 
+__to install properly__ 
 ### --save = LOCALLY 
 - npm install pg --save
 - npm install dotenv --save
 - npm install express --save 
+
+
+### reference markdown [1]: https://en.support.wordpress.com/markdown-quick-reference/ Click here
