@@ -6,4 +6,4 @@ __to install properly__
 - npm install express --save 
 
 
-### reference markdown [1]: https://en.support.wordpress.com/markdown-quick-reference/ Click here
+### reference markdown [https://en.support.wordpress.com/markdown-quick-reference/] Click here
